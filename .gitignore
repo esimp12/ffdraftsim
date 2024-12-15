@@ -1,3 +1,11 @@
+# Custom ignores
+requirements.txt
+data/
+venv/
+imgs/
+latex/
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
